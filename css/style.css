@@ -1,0 +1,392 @@
+/*cookies*/
+
+.cookies {
+	height: 72px;
+	background: url(../img/background-header.png);
+	position: relative;
+}
+
+.cookies-info {
+	width: 509px;
+	height: 30px;
+	margin: auto;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}
+
+.cookies-text {
+	float: left;
+	vertical-align: middle;
+	color: #ffffff;
+	font-family: Lato, sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 30px;
+}
+
+.cookies-button {
+	width: 112px;
+	height: 30px;
+	float: right;
+	border-radius: 15px;
+	background-color: #ffffff;
+	color: #194277;
+	font-family: Lato, sans-serif;
+	font-size: 12px;
+	font-weight: 700;
+	line-height: 16.36px;
+	letter-spacing: 0.55px;
+}
+
+/*portfolio*/
+
+.portfolio {
+	height: 872px;
+	background: url(../img/background-portfolio.png);
+	text-align: center;
+}
+
+.portfolio-menu {
+	padding: 103px 120px 0px 0px;
+	width: 25px;
+	height: 19px;
+	float: right;
+}
+
+.circle1 {
+	margin: auto;
+	width: 185px;
+	height: 185px;
+	padding-top: 166px;
+}
+
+.circle2 {
+	margin: auto;
+	width: 164px;
+	height: 164px;
+	margin-top: -175px;
+}
+
+.circle3 {
+	margin: auto;
+	width: 141px;
+	height: 141px;
+	margin-top: -152px;
+}
+
+.title {
+	width: 809px;
+	height: 98px;
+	max-width: 100%;
+	margin: 76px auto auto auto;
+	color: #ffffff;
+	font-family: Lato, sans-serif;
+	font-size: 44px;
+	font-weight: 900;
+	line-height: 49px;
+	text-transform: uppercase;
+	letter-spacing: 1.25px;
+	padding: 0px;
+}
+
+.subtitle {
+	width: 765px;
+	height: 50px;
+	max-width: 100%;	
+	margin: 42px auto auto auto;
+	color: #ffffff;
+	font-family: Lato, sans-serif;
+	font-size: 15px;
+	font-weight: 300;
+	line-height: 35px;
+	text-transform: uppercase;
+	letter-spacing: 0.4px;
+}
+
+.hire-me-button1 {
+	width: 204px;
+	height: 55px;	
+	margin: 75px auto auto auto;
+	border-radius: 28px;
+	background-color: #ffffff;
+	color: #3695ff;
+	font-family: Lato, sans-serif;
+	font-size: 16px;
+	font-weight: 700;
+	line-height: 30px;
+	text-transform: uppercase;
+	letter-spacing: 0.4px;
+}
+
+.portfolio-arrow {
+	width: 19px;
+	height: 32px;
+	margin: 92px auto auto auto;
+}
+
+/*about me*/
+
+.about-me {
+	width: 1067px;
+	height: 192px;
+	max-width: 100%;
+	margin: 122px auto 116px auto;
+}
+
+.about-me-title {
+	width: 210px;
+	height: 38px;
+	margin: auto;
+	color: #3677fd;
+	font-family: Lato, sans-serif;
+	font-size: 49px;
+	font-weight: 300;
+	line-height: 38px;
+}
+
+.about-me-description {
+	width: 1067px;
+	height: 85px;
+	max-width: 100%;
+	margin: 69px auto auto auto;
+	color: #5a5a5a;
+	text-align: center;
+	font-family: Lato, sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 35px;
+}
+
+/*exper in*/
+
+.expert-in {
+	height: 1145px;
+	background: url(../img/background-expert-in.png);
+	text-align: center;
+}
+
+.expert-in-title {
+	width: 186px;
+	height: 45px;
+	margin: auto;
+	padding-top: 99px;
+	color: #3677fd;
+	font-family: Lato, sans-serif;
+	font-size: 47px;
+	font-weight: 300;
+	line-height: 45px;	
+}
+
+.expert-in ul {
+	width: 1136px;
+	margin: auto;
+	margin-top: 12px;
+}
+
+.expert-in-big {
+	position: relative;
+	width: 355px;
+	height: 338px;	
+	margin-right: 40px;
+	margin-top: 100px;
+	float: left;
+}
+
+.expert-in-small {
+	width: 300px;
+	height: 338px;	
+	margin-right: 40px;
+	margin-top: 100px;
+	float: left;
+}
+
+.expert-in-1 {
+	margin-top: -110px;
+}
+
+.expert-in-2 {
+	margin-top: 100px;
+	color: #3677fd;
+	font-family: Lato, sans-serif;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 24px;
+	text-transform: uppercase;
+}
+
+.expert-in-3 {
+	margin-top: 25px;
+	color: #5a5a5a;
+	font-family: Lato;
+	font-size: 15px;
+	font-weight: 400;
+	line-height: 30px;
+}
+
+/*latest works*/
+
+.latest-works {
+	height: 1019px;
+}
+
+.latest-works-title {
+	width: 277px;
+	height: 38px;
+	margin: auto;
+	margin-top: 91px;
+	display: block;
+	color: #3677fd;
+	font-family: Lato, sans-serif;
+	font-size: 45px;
+	font-weight: 300;
+	line-height: 35.12px;
+}
+
+.latest-works ul {
+	width: 1175px;
+	height: 592px;
+	margin: auto;
+	margin-top: 50px;
+}
+
+.latest-works li {
+	position: relative;
+	width: 359px;
+	height: 269px;	
+	margin-right: 30px;
+	margin-top: 54px;
+	float: left;
+	border-radius: 10px;
+	border: 1px solid #f4f4f4;
+	background-color: #f4f4f4;
+}
+
+.img-bottom {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+}
+
+.img-center {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+}
+
+/*clients*/
+
+.clients {
+	height: 363px;
+	background: url(../img/background-clients.png);
+}
+
+.clients-title {
+	width: 146px;
+	height: 38px;	
+	margin: auto;
+	padding-top: 94px;
+	color: #3677fd;
+	font-family: Lato, sans-serif;
+	font-size: 50px;
+	font-weight: 300;
+	line-height: 38px;
+}
+
+.logos {
+	width: 1043px;
+	height: 56px;
+	max-width: 100%;
+	margin: auto;	
+	margin-top: 76px;
+	filter: contrast(1%) brightness(150%);
+}
+
+.microsoft-logo {
+	width: 192px;
+	height: 41px;
+	float: left;
+	margin-top: 7px;
+}
+
+.samsung-logo {
+	width: 185px;
+	height: 28px;
+	float: left;
+	margin-top: 14px;
+	margin-left: 119px;
+}
+
+.ibm-logo {
+	width: 140px;
+	height: 52px;
+	float: left;
+	margin-top: 2px;
+	margin-left: 119px;
+}
+
+.google-logo {
+	width: 170px;
+	height: 56px;
+	float: left;
+	margin-left: 118px;
+}
+
+/*footer*/
+
+footer {
+	height: 247px;
+	max-width: 100%;
+	position: relative;
+	background: url(../img/background-footer.png);
+}
+
+.foot {
+	width: 1138px;
+	height: 55px;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+	position: absolute;
+}
+
+.need-designer {
+	width: 870px;
+	height: 47px;
+	display: inline;
+	margin: auto;
+	text-align: left;
+	font-family: Lato, sans-serif;
+	font-size: 45px;
+	font-weight: 300;
+	line-height: 45px;
+	color: #ffffff;		
+}
+
+.need-designer span {
+	font-weight: 700;
+}
+
+.hire-me-button2 {
+	width: 204px;
+	height: 55px;
+	float: right;
+	border-radius: 28px;
+	background-color: #ffffff;
+	color: #3695ff;
+	font-family: Lato, sans-serif;
+	font-size: 16px;
+	font-weight: 700;
+	line-height: 30px;
+	text-transform: uppercase;
+	letter-spacing: 0.4px;
+}
